@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-   <!-- Logo -->
+ <!-- Logo -->
     <header>
         <img src="https://raw.githubusercontent.com/your-username/repository/main/images/logo.png" 
              alt="Garun Saini Logo" class="logo">
@@ -22,7 +22,7 @@
         <a href="#">Contact</a>
         <a href="https://www.instagram.com/dwaj_1" target="_blank">Instagram</a>
     </nav>
-    <!-- Hero Banner -->
+   <!-- Hero Banner -->
     <section class="hero">
         <h2>Discover the Best Hindu Spiritual Books & Items</h2>
         <p>Explore the wisdom of the Vedas, Upanishads, and Bhagavad Gita.</p>
@@ -35,13 +35,13 @@
             <p>The most profound Hindu scripture explaining Dharma & Karma.</p>
             <a href="https://www.amazon.in/dp/B08Z3TT3M3" target="_blank" class="buy-btn">Buy on Amazon</a>
         </div>
-        <div class="product">
+      <div class="product">
             <img src="https://m.media-amazon.com/images/I/91PYuAfUbHL.jpg" alt="Vedas Book Set">
             <h3>Vedas (Complete Set)</h3>
             <p>Unlock the cosmic knowledge of Rigveda, Yajurveda, Samaveda & Atharvaveda.</p>
             <a href="https://www.amazon.in/dp/B09V7L2V8B" target="_blank" class="buy-btn">Buy on Amazon</a>
         </div>
-        <div class="product">
+       <div class="product">
             <img src="https://m.media-amazon.com/images/I/71qX13EIbdL.jpg" alt="Rudraksha Mala">
             <h3>Rudraksha Mala</h3>
             <p>Powerful spiritual beads for meditation and divine energy.</p>
@@ -58,7 +58,6 @@
     <footer class="footer">
         <p>© 2025 Garun Saini. All Rights Reserved. | Follow me on <a href="https://www.instagram.com/dwaj_1" target="_blank">Instagram</a></p>
     </footer>
-
 </body>
 </html>
 body {
@@ -68,31 +67,26 @@ body {
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #ff6600;
     color: white;
     padding: 20px;
 }
-
 .logo {
     width: 120px;
     display: block;
     margin: 0 auto 10px;
 }
-
 .navbar {
     background-color: #222;
     padding: 10px;
 }
-
 .navbar a {
     color: white;
     text-decoration: none;
     margin: 15px;
     font-weight: bold;
 }
-
 .hero {
     background-color: #ffcc00;
     padding: 20px;
@@ -119,7 +113,6 @@ header {
     height: auto;
     border-radius: 5px;
 }
-
 .buy-btn {
     display: inline-block;
     background-color: #ff6600;
@@ -129,11 +122,9 @@ header {
     margin-top: 10px;
     border-radius: 5px;
 }
-
 .footer {
     background: #222;
     color: white;
     padding: 15px;
     font-size: 14px;
 }
-            
